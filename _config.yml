@@ -6,7 +6,13 @@ edit: true
 
 copyright:
   revision: true
-
+  
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids:       true
+  toc_levels:     1..3
+  
 addons:
   - github
   - gems
