@@ -1,6 +1,7 @@
 title: jekyll-rtd-theme
 lang: en-US
 description: Just another documentation theme compatible with GitHub Pages, based on sphinx_rtd_theme
+remote_theme: sallylxl/bil-jekyll-rtd-theme
 
 edit: true
 
